@@ -1,0 +1,6 @@
+C:\Users\JVO\Documents\Projects\CsHelloWorld\CsHelloWorld\bin\Debug\CsHelloWorld.exe.config
+C:\Users\JVO\Documents\Projects\CsHelloWorld\CsHelloWorld\bin\Debug\CsHelloWorld.exe
+C:\Users\JVO\Documents\Projects\CsHelloWorld\CsHelloWorld\bin\Debug\CsHelloWorld.pdb
+C:\Users\JVO\Documents\Projects\CsHelloWorld\CsHelloWorld\obj\Debug\CsHelloWorld.csprojResolveAssemblyReference.cache
+C:\Users\JVO\Documents\Projects\CsHelloWorld\CsHelloWorld\obj\Debug\CsHelloWorld.exe
+C:\Users\JVO\Documents\Projects\CsHelloWorld\CsHelloWorld\obj\Debug\CsHelloWorld.pdb
